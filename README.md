@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there 👋
+Welcome to Kumo's Lab's GitHub! If you require any help with any of our Discord Bots, join our support server [here](https://discord.gg/E56eZdNjK4 "Support Server")!
 
-<!--
-**Mysttt/Mysttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Support will be provided for:
+| Bot Name           | Supported|
+| ------------- |---------:|
+| Modern Levels      |      ✅ |
+| Giveaway Cord      |      ✅ |
+| Kingdoms (When Released) |      ✅ |
+| Modern Economy (When Released) |      ✅ |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+![Mysttt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mysttt&show_icons=true&theme=tokyonight)
+[![Mysttt's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Mysttt&theme=tokyonight)](https://github.com/Mysttt)
+
+
+
+
