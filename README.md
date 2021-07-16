@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Java, Vue**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mysttt](https://github.com/Mysttt)
+- 👨‍💻 All of my projects are available [here](https://github.com/KumosLab)
 
 - 💬 Ask me about **Anything!**
 
