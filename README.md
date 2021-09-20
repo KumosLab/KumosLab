@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋</h1>
 <h3 align="center">Welcome To Kumo's Labs GitHub Page!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KumosLab&label=Profile%20views&color=0e75b6&style=flat" alt="KumosLab" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KumosLab" alt="KumosLab" /></a> </p>
 
 - 🔭 I’m currently working on **Project Orion**
